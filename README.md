@@ -1,3 +1,3 @@
 # belajar-clone
 
-mencoba clone repo github ke local
+mencoba forking dan pull request
