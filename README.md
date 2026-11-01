@@ -1,4 +1,4 @@
 # belajar-clone
 
-biar conflict
+belajar clonenya kemarin
 mencoba forking dan pull request
